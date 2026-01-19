@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Welcome to Online Library</h1>
+      <h1>📚 Welcome to Online Library</h1>
 
       <h2>Categories</h2>
       <Link to="/books/Fiction">Fiction</Link> |{" "}
